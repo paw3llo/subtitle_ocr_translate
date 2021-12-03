@@ -6,5 +6,5 @@ Wybrane słowo jest tłumaczone przy użyciu API słownika internetowego PONS.
 Użytkowik może wybrać tłumaczenie które ma być zapamiętane do pliku txt, którego format umożliwia szybki import do quizlet.com.
 
 Aplikacja do działania wymaga założenia konta na https://en.pons.com/p/online-dictionary/developers/api utworzenia konta i umieszczenia uzyskanego klucza API o nazwie "secret"
-w pliku config.txt:
+w pliku config.py:
 <code> api_key= secret </code>
