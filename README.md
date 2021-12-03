@@ -1,5 +1,5 @@
 # subtitle_ocr_translate
-Aplikacja GUI napisana w Pythonie pozwalająca na łatwe tłumaczenie napisów po niemiecku serialów dosępnych w internecie oraz zapisywanie nowych słówek i tłumaczeń.
+Aplikacja GUI napisana w Pythonie pozwalająca na łatwe tłumaczenie napisów po niemiecku z serialów dosępnych w internecie oraz zapisywanie nowych słówek i tłumaczeń.
 Aplikacja tworzy zrzut ekranu o wymiarach i pozycji, które należy ustalić przy pomocy screenshot_adjust.pyw i ręcznie wpisać w tranlate_git.pyw.
 Następnie aplikacja rozpoznaje słowa na danym zrzucie ekranu i pozwala użytkownikowi na wybór słowa do tłumaczenia.
 Wybrane słowo jest tłumaczone przy użyciu API słownika internetowego PONS.
